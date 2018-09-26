@@ -1,4 +1,4 @@
-Example Extension
+BlockUi Extension
 =================
 Extension de ejemplo creada por PenBlu
 
@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist penblu/example "*"
+php composer.phar require --prefer-dist penblu/blockui "*"
 ```
 
 or add
