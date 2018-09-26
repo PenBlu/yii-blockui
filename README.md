@@ -1,6 +1,6 @@
 BlockUi Extension
 =================
-Extension de ejemplo creada por PenBlu
+Extension blockui creada por PenBlu
 
 Installation
 ------------
